@@ -14,7 +14,7 @@ This project is a part of the continuous assessment for Advance Data Mining modu
 
 **Project Description:** 
 
-In this project an interesting demonstration of machine learning in the field of wildfire prediction was performed. This was achieved using historical remote sensing and weather data. Machine learning models (SVM, RF, ANN, AutoML) using these data resulted positivelyin predicting accurate wildfires.
+In this project, an interesting demonstration of machine learning in the field of wildfire prediction was performed. This was achieved using historical remote sensing and weather data. Machine learning models (SVM, RF, ANN, AutoML) using these data resulted in positively predicting accurate wildfires.
 
 **Tools & Languages Used:**
 1. R
