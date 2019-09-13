@@ -21,3 +21,21 @@ In this project an interesting demonstration of machine learning in the field of
 2. Excel
 3. Tableau
 
+
+Files description:-
+files inside code folder
+
+1) wildfire-data-etl: wildfires extraction code from raw data.
+2) weatherParser: weather related data extraction code.
+3) NDVI_Data_Extraction: NDVI data extraction code.
+4) IntegratedParser: code to integrate all sources of data based on lat & long
+5) randomForest and SVM: RF & SVM model implementation code
+6) wildfire-predictions-models - EDA & ANN, AutoML codes.
+
+files inside sampledata folder 
+
+1) processed: Contains cleaned data after integration of all sources of data.
+2) NDVI: Contains raw .nc ndvi file.
+3) NFDB_point_20181129_large_fires: contains raw sample of fires data.
+4) sample_wildfire_data: contains processed sample from 'NFDB_point_20181129_large_fires' files.
+5) weather_sample: contains sample data for temperature, wind, relative humidity, solar etc.
